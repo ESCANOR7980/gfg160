@@ -1,7 +1,8 @@
 # gfg160
 01/06/2026 - today i solved rotate an array problem 
 02/06/2026 - today i solved next permutation problem
-03/06/2026 - today i solved Majority element - more than n/3
-04/06/2026 - today i solved Stock Buy and Sell – Multiple Transaction Allowed
-05/06/2026 - today i solved Stock Buy and Sell – Max one Transaction Allowed
-06/06/2026 - today i solved Minimize the Heights II
+03/06/2026 - today i solved Majority element - more than n/3 problem
+04/06/2026 - today i solved Stock Buy and Sell – Multiple Transaction Allowed problem
+05/06/2026 - today i solved Stock Buy and Sell – Max one Transaction Allowed problem
+06/06/2026 - today i solved Minimize the Heights II problem
+07/06/2026 - today i solveed Kadane's Algorithm problem
