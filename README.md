@@ -6,3 +6,4 @@
 05/06/2026 - today i solved Stock Buy and Sell – Max one Transaction Allowed problem
 06/06/2026 - today i solved Minimize the Heights II problem
 07/06/2026 - today i solveed Kadane's Algorithm problem
+08/06/2026 - today i solved Maximum Product Subarray problem
