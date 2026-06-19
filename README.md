@@ -17,3 +17,4 @@
 16/06/2026 - today i solved Process String with Special Operations I problem
 17/06/2026 - today i solved Process String with Special Operations II problem
 18/06/2026 - today i solved Strings Rotations of Each Other problem 
+19/06/2026 - today i solved Count Inversions problem 
