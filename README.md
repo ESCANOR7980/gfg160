@@ -20,3 +20,4 @@
 19/06/2026 - today i solved Count Inversions problem 
 20/06/2026 - today i solved Last Digit of a^b problem 
 21/06/2026 - today i solved Set Matrix Zeros problem
+22/06/2026 = today i solved Search in a sorted Matrix problem 
