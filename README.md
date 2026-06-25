@@ -23,3 +23,4 @@
 22/06/2026 - today i solved Search in a sorted Matrix problem 
 23/06/2026 - today i solved All Triplets with Zero Sum problem
 24/06/2026 - today i solved Rat Maze With Multiple Jumps problem
+25/06/2026 - today i solved N-Digit Numbers with Increasing Digits problem
