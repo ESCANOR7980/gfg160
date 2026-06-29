@@ -27,3 +27,4 @@
 26/06/2026 - today i solved Choose and Swap problem 
 27/06/2026 - today i solved k Times Appearing Adjacent Two 1's problem
 28/06/2026 - today i solved Trapping Rain Water problem
+29/06/2026 - today i solved Max Dot Product with 0 Insertions problem
