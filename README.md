@@ -29,3 +29,5 @@
 28/06/2026 - today i solved Trapping Rain Water problem
 29/06/2026 - today i solved Max Dot Product with 0 Insertions problem
 30/06/2026 - today i solved Minimum Insert and Delete to Convert problem 
+JUlY 
+01/07/2026 - today i solved Implement Pow problem 
