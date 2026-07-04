@@ -33,3 +33,4 @@ JUlY
 01/07/2026 - today i solved Implement Pow problem 
 02/07/2026 - today i solved Check Subset sum divisible by k problem 
 03/07/2026 - today i solved Ways to Increase LCS by One problem
+04/07/2026 - today i solved LRU Cache problem
