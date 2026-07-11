@@ -39,3 +39,4 @@ JUlY
 07/07/2026 - today i solved Largest Unblocked Submatrix problem
 08/07/2026 - today i solved Towers Reaching Both Stations problem
 09/07/2026 - today i solved Count Pairs Divisible By K problem
+10/07/2026 - today i solved Ways to Express as Sum of Consecutives problem 
