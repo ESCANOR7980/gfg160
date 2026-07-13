@@ -42,3 +42,4 @@ JUlY
 10/07/2026 - today i solved Ways to Express as Sum of Consecutives problem 
 11/07/2026 - today i solved Longest Possible Route in a Matrix with Hurdles problem
 12/07/2026 - today i solved Max Amount by Selling K Tickets problem
+13/07/2026 - today i solved Rearrange the Array problem
