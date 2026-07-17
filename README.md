@@ -46,3 +46,4 @@ JUlY
 14/07/2026 - todaay i solved Smallest Non-Zero Number problem
 15/07/2026 - today i solved Longest Bitonic Subarray problem 
 16/07/2026 - today i solved Numbers with Given Digit Sum problem 
+17/07/206 - today i solved Max Absolute Diff of Two Subarrays problem
