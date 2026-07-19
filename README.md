@@ -48,3 +48,4 @@ JUlY
 16/07/2026 - today i solved Numbers with Given Digit Sum problem 
 17/07/2026 - today i solved Max Absolute Diff of Two Subarrays problem
 18/07/2026 - today i solved Cut Matrix problem
+19/07/2026 - today i solved Mountain Subarray Queries problem
