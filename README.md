@@ -49,3 +49,4 @@ JUlY
 17/07/2026 - today i solved Max Absolute Diff of Two Subarrays problem
 18/07/2026 - today i solved Cut Matrix problem
 19/07/2026 - today i solved Mountain Subarray Queries problem
+20/07/2026 - today i solved Shortest Unique Prefix for Every Word problem
