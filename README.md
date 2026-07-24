@@ -53,3 +53,4 @@ JUlY
 21/07/2026 - today i solved Minimum Deletions to Make Sorted problem
 22/07/2026 - today i solved Check Preorder of BST problem
 23/07/2026 - today i solved Reverse a sublist of a linked list problem
+24/07/2026 - today i solved Longest Consecutive Path in Binary tree problem
