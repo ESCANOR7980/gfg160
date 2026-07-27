@@ -56,3 +56,4 @@ JUlY
 24/07/2026 - today i solved Longest Consecutive Path in Binary tree problem
 25/07/2026 - today i solved Complete Binary Tree Traversal with Array Input problem
 26/07/2026 - today i solved The FizzBuzz Program problem
+27/07/2026 - today i solved Construct a Full Binary Tree problem
