@@ -59,3 +59,4 @@ JUlY
 27/07/2026 - today i solved Construct a Full Binary Tree problem
 28/07/2026 - today i solved Shortest Path in 1-2 Graph problem
 29/07/2026 - today i solved Split Array into Minimum Subsets problem
+30/07/2026 - today i solved Maximum Subset XOR problem
