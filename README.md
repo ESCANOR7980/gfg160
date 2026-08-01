@@ -61,3 +61,5 @@ JUlY
 29/07/2026 - today i solved Split Array into Minimum Subsets problem
 30/07/2026 - today i solved Maximum Subset XOR problem
 31/07/2026 - today i solved Subsets with Products of Distinct Primes problem 
+AUGUST 
+01/08/2026 - today i solved Max After m Range Increments problem
